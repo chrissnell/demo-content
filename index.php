@@ -14,13 +14,11 @@ body { font-size:18px; }
 <h1>Welcome to the ECS DevOps Demo!</h1>
 <p>This web page is being served from      
    <strong><?php
-          echo "\$_SERVER['SERVER_NAME']: ";
           echo $_SERVER['SERVER_NAME'];
     ?></strong>
 </p>
 <p>You are visiting from
    <strong><?php
-          echo "\$_SERVER['REMOTE_ADDR']: ";
           echo $_SERVER['REMOTE_ADDR'];
     ?></strong>
 </p>
