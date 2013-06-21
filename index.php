@@ -22,6 +22,8 @@ body { font-size:18px; }
           echo $_SERVER['REMOTE_ADDR'];
     ?></strong>
 </p>
+<p></p>
+<p>Powered by nginx.</p>
 </body>
 </html>
 
