@@ -23,7 +23,7 @@ body { font-size:18px; }
     ?></strong>
 </p>
 <p></p>
-<p>Powered by nginx.</p>
+<p>Powered by Apache and PHP.</p>
 </body>
 </html>
 
