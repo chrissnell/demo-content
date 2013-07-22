@@ -32,7 +32,7 @@
     </div>
     <div class="span6">
       <h2>About You</h2>
-      <p>You are visiting from      
+      <p><i class="icon-globe"></i> You are visiting from      
 	   <strong>
 	  	<?php
 	     echo $_SERVER['REMOTE_ADDR'];
