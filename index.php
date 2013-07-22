@@ -14,7 +14,7 @@
 <div class="container">
   <div class="hero-unit">
     <img src="http://images.cdn.rackspace.com/header/logo-rackspace.png" width=154 height=46 style="padding-bottom: 10px">
-    <h2 style="color: red">Welcome to the ECS DevOps Demo!</h2>
+    <h2 style="color: #880000">Welcome to the ECS DevOps Demo!</h2>
     <p>This is a simple two-tiered PHP app to demonstrate the power of Chef provisioning in the Rackspace Cloud</p>
   </div>
 
