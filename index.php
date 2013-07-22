@@ -15,6 +15,7 @@
 
   <!-- Main hero unit for a primary marketing message or call to action -->
   <div class="hero-unit">
+    <img src="http://images.cdn.rackspace.com/header/logo-rackspace.png" width=154 height=46>
     <h2>Welcome to the ECS DevOps Demo!</h2>
     <p>This is a simple two-tiered PHP app to demonstrate the power of Chef provisioning in the Rackspace Cloud</p>
   </div>
