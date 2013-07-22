@@ -22,7 +22,7 @@
   <div class="row">
     <div class="span6">
       <h2>About This Server...</h2>
-	  <p>This web page is being served from      
+	  <p><i class="icon-circle-arrow-right"><i> This web page is being served from      
 	   <strong>
 	  	<?php
 	     echo gethostname();
