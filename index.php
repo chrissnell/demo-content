@@ -44,7 +44,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Powered by Chef, Ubuntu Linux, Apache, PHP, and the Rackspace Cloud </p>
+        <p>Powered by Chef, Ubuntu Linux, Apache, PHP, and the Rackspace Cloud </p>
       </footer>
 
     </div> <!-- /container -->
