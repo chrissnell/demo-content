@@ -44,7 +44,7 @@
       <hr>
 
       <footer>
-        <p>Powered by Chef, Ubuntu Linux, Apache, PHP, and the Rackspace Cloud </p>
+        <p><i class="icon-ok-sign"></i> Powered by Chef, Ubuntu Linux, Apache, PHP, and the Rackspace Cloud </p>
       </footer>
 
     </div> <!-- /container -->
