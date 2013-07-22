@@ -5,8 +5,10 @@
 <title>Hello!</title>
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
 <style>
-margin-top: 50px;
-</style
+	body{
+	    margin-top: 10px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;
+	}
+</style>
 </head>
 <body>
 <div class="container">
